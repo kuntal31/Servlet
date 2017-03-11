@@ -1,0 +1,7 @@
+https://qmp.igate.com/perception5/open.php? --For DQ
+
+https://icompass.fs.capgemini.com  --For MTT & L1 Test
+
+
+http://ndafile:8081/iUpload   -------------- For MPT & Assignment
+
